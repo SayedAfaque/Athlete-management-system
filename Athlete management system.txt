@@ -1,0 +1,10 @@
+Athlete management system
+version 1.0
+specification:
+
+1) Athlete Profiles: Stores basic personal info, emergency contacts, and history.
+2) Workload Tracker: Logs training data, workouts, GPS stats, and session effort.
+3) Medical Logs: Tracks injuries, rehab progress, and official play availability
+4) Wellness Monitoring: Gathers daily survey data on sleep, fatigue, and soreness.
+5) Team Communication: Handles direct messaging, group alerts, and shared calendars.
+6) Central Database: Merges data from separate spreadsheets into one profile per athlete.
