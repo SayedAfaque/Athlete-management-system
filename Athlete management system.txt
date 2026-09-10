@@ -9,3 +9,5 @@ specification:
 5) Team Communication: Handles direct messaging, group alerts, and shared calendars.
 6) Central Database: Merges data from separate spreadsheets into one profile per athlete.
 7) Device Integration: Connects directly with fitness trackers and heart rate monitors
+8) Data Security: Restricts sensitive medical records to authorized health staff only
+9) Smart Analytics: Flags fatigue trends automatically to prevent player overtraining
